@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/{sudesh1122}/count.svg)
+
+![Profile Views](https://gpvc.arturio.dev/sudesh1122)
 
 <!--
 **sudesh1122/sudesh1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
